@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "com.example.touchvision.app-debug-31:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.touchvision.app-main-33:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.touchvision.app-debug-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.touchvision.app-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.touchvision.app-debug-31:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.touchvision.app-main-33:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.touchvision.app-debug-31:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.touchvision.app-main-33:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.touchvision.app-debug-31:/layout_activity_tag_programming.xml.flat",
+        "source": "com.example.touchvision.app-main-33:/layout/activity_tag_programming.xml"
+    },
+    {
+        "merged": "com.example.touchvision.app-debug-31:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.touchvision.app-main-33:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.touchvision.app-debug-31:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.touchvision.app-main-33:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.touchvision.app-debug-31:/layout_view_history_card.xml.flat",
+        "source": "com.example.touchvision.app-main-33:/layout/view_history_card.xml"
+    },
+    {
+        "merged": "com.example.touchvision.app-debug-31:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.touchvision.app-main-33:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.touchvision.app-debug-31:/layout_item_history_page.xml.flat",
+        "source": "com.example.touchvision.app-main-33:/layout/item_history_page.xml"
+    },
+    {
+        "merged": "com.example.touchvision.app-debug-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.touchvision.app-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.touchvision.app-debug-31:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.touchvision.app-main-33:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.touchvision.app-debug-31:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.touchvision.app-main-33:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.touchvision.app-debug-31:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.touchvision.app-main-33:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.touchvision.app-debug-31:/xml_nfc_tech_filter.xml.flat",
+        "source": "com.example.touchvision.app-main-33:/xml/nfc_tech_filter.xml"
+    },
+    {
+        "merged": "com.example.touchvision.app-debug-31:/layout_activity_settings.xml.flat",
+        "source": "com.example.touchvision.app-main-33:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "com.example.touchvision.app-debug-31:/drawable_ic_settings.png.flat",
+        "source": "com.example.touchvision.app-main-33:/drawable/ic_settings.png"
+    },
+    {
+        "merged": "com.example.touchvision.app-debug-31:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.touchvision.app-main-33:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.touchvision.app-debug-31:/raw_teaching.mp3.flat",
+        "source": "com.example.touchvision.app-main-33:/raw/teaching.mp3"
+    },
+    {
+        "merged": "com.example.touchvision.app-debug-31:/drawable_ic_back.xml.flat",
+        "source": "com.example.touchvision.app-main-33:/drawable/ic_back.xml"
+    },
+    {
+        "merged": "com.example.touchvision.app-debug-31:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.touchvision.app-main-33:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.touchvision.app-debug-31:/drawable_ic_launcher.png.flat",
+        "source": "com.example.touchvision.app-main-33:/drawable/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.touchvision.app-debug-31:/raw_error.mp3.flat",
+        "source": "com.example.touchvision.app-main-33:/raw/error.mp3"
+    },
+    {
+        "merged": "com.example.touchvision.app-debug-31:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.touchvision.app-main-33:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.touchvision.app-debug-31:/drawable_top_panel_background.xml.flat",
+        "source": "com.example.touchvision.app-main-33:/drawable/top_panel_background.xml"
+    },
+    {
+        "merged": "com.example.touchvision.app-debug-31:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.touchvision.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.touchvision.app-debug-31:/drawable_button_white_shadow.xml.flat",
+        "source": "com.example.touchvision.app-main-33:/drawable/button_white_shadow.xml"
+    },
+    {
+        "merged": "com.example.touchvision.app-debug-31:/drawable_bg_history_card.xml.flat",
+        "source": "com.example.touchvision.app-main-33:/drawable/bg_history_card.xml"
+    },
+    {
+        "merged": "com.example.touchvision.app-debug-31:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.touchvision.app-main-33:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.touchvision.app-debug-31:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.touchvision.app-main-33:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.touchvision.app-debug-31:/drawable_settings_dark_bg.xml.flat",
+        "source": "com.example.touchvision.app-main-33:/drawable/settings_dark_bg.xml"
+    },
+    {
+        "merged": "com.example.touchvision.app-debug-31:/layout_activity_main.xml.flat",
+        "source": "com.example.touchvision.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.touchvision.app-debug-31:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.touchvision.app-main-33:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    }
+]
